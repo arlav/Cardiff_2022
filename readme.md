@@ -3,7 +3,7 @@ Repository to share files and links with the students of MSc Computational metho
 
 #Development Environments
 
-https://hardhat.org/hardhat-network/docs/overview
+[Hardhat](https://hardhat.org/hardhat-network/docs/overview) 
 
 
 #NFT Generator system in Blender
