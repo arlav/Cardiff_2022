@@ -22,6 +22,9 @@ Repository to share files and links with the students of MSc Computational metho
 #Create NFT JSON using python
 - [NFt-Generator](https://github.com/Jon-Becker/nft-generator-py)
 
+#Faucets for Test Networks
+- [Chainlink Goerli Faucet](https://faucets.chain.link/)
+
 
 
 
