@@ -18,6 +18,7 @@ https://ipfs.io/ipfs/QmdKw8pdce9nmZRP5nUZ6yPguy8D9V54E9tnjDetu8MLoa?filename=Emm
 
 #Libraries
 - [OpenZeppelin](https://openzeppelin.org/docs/latest/getting-started/installation/)
+- [OpenZeppelin Wizard](https://docs.openzeppelin.com/contracts/4.x/wizard)
 - [OpenZeppelin Github](https://github.com/OpenZeppelin/openzeppelin-contracts)
 
 
