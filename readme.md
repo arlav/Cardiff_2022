@@ -6,6 +6,7 @@ Repository to share files and links with the students of MSc Computational metho
 - [Hardhat](https://hardhat.org/hardhat-network/docs/overview) 
 - [Brownie documentation](https://brownie.readthedocs.io/en/latest/index)
 - [Brownie](https://github.com/eth-brownie/brownie)
+- [Remix](https://remix.ethereum.org/)
 
 #Ethereum Companion
 - [Ethereum Companion](https://github.com/ethereum/ethereum-companion)
