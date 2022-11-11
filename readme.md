@@ -24,6 +24,14 @@ Repository to share files and links with the students of MSc Computational metho
 
 #Faucets for Test Networks
 - [Chainlink Goerli Faucet](https://faucets.chain.link/)
+- [Alchemy Goerli Faucet](https://goerlifaucet.com/)
+
+#Interplanetary Filesystem
+- [IPFS](https://ipfs.tech/)
+- [IPFS Github](https://github.com/ipfs/go-ipfs)
+
+#Ethereum Blockchain Explorer
+- [Etherscan](https://etherscan.io/)
 
 
 
