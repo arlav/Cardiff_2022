@@ -9,7 +9,7 @@ Repository to share files and links with the students of MSc Computational metho
 - [Remix](https://remix.ethereum.org/)
 
 #Ethereum Companion
-- [Ethereum Companion](https://github.com/ethereum/ethereum-companion)
+- [Ethereum Companion](https://athenslab.github.io/Ethereum-Companion/)
 
 #Libraries
 - [OpenZeppelin](https://openzeppelin.org/docs/latest/getting-started/installation/)
